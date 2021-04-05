@@ -31,6 +31,7 @@ REGULI:
 5.Bankist-Pt2
 Aceasta mini-aplicatie isi doreste sa oglideasca o apilicatie bancara simplificata:
 - Conturile sunt stocate in conturi obiecte, in JavaScript.
+- Username-ul este format din initialele utilizatorilor (exemplu de username si pin: ["js", 1111], ["jd", 2222]).
 - Dupa logare sunt afisate retagerile si depunerile utilizatorului specificat.
 - Utilizatorului poate trasfera bani altui utilizator.
 - Clientul poate cere un imprumut, care va fii aprobat daca clientul are cel putin un depozit mai mare decat 10% din valoarea imprumutului.
