@@ -28,4 +28,15 @@ REGULI:
 - Cand utilizatorul apasa tasta "Enter" antrenamentul este afisat pe harta, este afisat in lista cu antrenamente si este memorat in depozitarea locala a browserului.
 - Cand utilizatorul pasa pe unul din antrenamentele din lista harta se va muta in locatia acestuia.
 
+5.Bankist-Pt2
+Aceasta mini-aplicatie isi doreste sa oglideasca o apilicatie bancara simplificata:
+- Conturile sunt stocate in conturi obiecte, in JavaScript.
+- Dupa logare sunt afisate retagerile si depunerile utilizatorului specificat.
+- Utilizatorului poate trasfera bani altui utilizator.
+- Clientul poate cere un imprumut, care va fii aprobat daca clientul are cel putin un depozit mai mare decat 10% din valoarea imprumutului.
+- Clientul isi poate inchide contul cand doreste.
+- Aplicatia afiseaza totalul retragerilor si al depozitelor, precum si dobanda (rata dobanizii inmultita cu soldul contului) 
+- Utilizatorul are posibilitatea de a-si sorta descrescator tranzactiile.
+- Clientul va fii deconectat din aplicatie dupa 5 minute de la conectare.
+
 © Copyright by Jonas Schmedtmann. Use for learning or your portfolio. Don't use to teach. Don't claim as your own.
