@@ -29,7 +29,9 @@ REGULI:
 - Cand utilizatorul pasa pe unul din antrenamentele din lista harta se va muta in locatia acestuia.
 
 5.Bankist-Pt2
+
 Aceasta mini-aplicatie isi doreste sa oglideasca o apilicatie bancara simplificata:
+
 - Conturile sunt stocate in conturi obiecte, in JavaScript.
 - Username-ul este format din initialele utilizatorilor (exemplu de username si pin: ["js", 1111], ["jd", 2222]).
 - Dupa logare sunt afisate retagerile si depunerile utilizatorului specificat.
